@@ -1,0 +1,157 @@
+{
+  "textures": {
+    "version": "1.0",
+    "format": "RGBA8888",
+    "size": {
+      "w": 96,
+      "h": 192
+    },
+    "scale": "1"
+  },
+  "frames": [
+    {
+      "filename": "down-right-corner",
+      "frame": {
+        "x": 16,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "down",
+      "frame": {
+        "x": 32,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "down-left-corner",
+      "frame": {
+        "x": 48,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "down-right",
+      "frame": {
+        "x": 16,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "down-left",
+      "frame": {
+        "x": 48,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "right",
+      "frame": {
+        "x": 0,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "center",
+      "frame": {
+        "x": 32,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "left",
+      "frame": {
+        "x": 64,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "up-right-corner",
+      "frame": {
+        "x": 0,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "up-right",
+      "frame": {
+        "x": 16,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "up-left",
+      "frame": {
+        "x": 48,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "up-left-corner",
+      "frame": {
+        "x": 64,
+        "y": 48,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "up",
+      "frame": {
+        "x": 32,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "up-left-cross",
+      "frame": {
+        "x": 64,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "up-right-cross",
+      "frame": {
+        "x": 80,
+        "y": 64,
+        "w": 16,
+        "h": 16
+      }
+    },
+    {
+      "filename": "same",
+      "frame": {
+        "x": 32,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      }
+    }
+  ]
+}

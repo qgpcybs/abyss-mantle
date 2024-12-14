@@ -1,0 +1,34 @@
+[
+  {
+    "id": "0",
+    "type": "GRANARY",
+    "name": "granary",
+    "img": "img-building-repository",
+    "sceneImg": "repository",
+    "introduction": "A hut for storing resources that can hold 600 units of resources."
+  },
+  {
+    "id": "1",
+    "type": "MINER",
+    "name": "mine shaft",
+    "img": "img-building-mine-shaft",
+    "sceneImg": "mine-shaft",
+    "introduction": "Roles can be sent to enter the building and mine something. (Effective only if a mine exists at the construction site)"
+  },
+  {
+    "id": "-1",
+    "type": "BRIDGE",
+    "name": "bridge",
+    "img": "img-building-bridge",
+    "sceneImg": "bridge",
+    "introduction": ""
+  },
+  {
+    "id": "2",
+    "type": "FIELD",
+    "name": "field",
+    "img": "img-building-field",
+    "sceneImg": "field",
+    "introduction": "Crops can be put in for staking and receiving more crops."
+  }
+]

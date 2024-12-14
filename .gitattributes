@@ -1,0 +1,4 @@
+# suppress diffs for generated files
+* text=auto eol=lf
+**/pnpm-lock.yaml linguist-generated=true
+**/codegen/**/*.sol linguist-generated=true
